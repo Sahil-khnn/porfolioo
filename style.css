@@ -843,7 +843,7 @@ button{
 
 .pp-thumbnail img{
     /* border-radius: 0 0 100px 0; */
-    height: 80vh;
+    height: 70vh;
     border-radius: 10px;
 }
 
@@ -946,6 +946,7 @@ button{
 .contact-info-item .social-links a:hover{
     color: var(--white);
     background-color: var(--main-color);
+    transform: translateY(-3px);
 }
 
 /* ------responsive------- */
